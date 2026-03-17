@@ -1,10 +1,6 @@
 # Subjectivity Bias in Digital Media  
-### A causal ml study of whether subjective writing drives online virality
 
-This repository contains our final project for **Machine Learning for Econometrics**.  
-We study whether the **subjectivity** of an online news article has a causal effect on its **popularity**, measured through social media shares.
-
-Our empirical application uses the **Online News Popularity** dataset from the UCI Machine Learning Repository:  
+This repository contains our final project for **Machine Learning for Econometrics**. We study whether the **subjectivity** of an online news article has a causal effect on its **popularity**, measured through social media shares. Our empirical application uses the **Online News Popularity** dataset from the UCI Machine Learning Repository:  
 https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
 ## Project question
